@@ -3,3 +3,5 @@ node_modules/
 public/compiledjs/
 .idea/
 *.iml
+.clj-kondo/
+.lsp/
